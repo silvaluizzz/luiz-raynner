@@ -27,4 +27,4 @@ Segurança:
 - Validação de dados (frontend + backend)
 
 obs:
-As senhas exibidas estão criptografadas (hash), não são as reais.
+As senhas exibidas estão criptografadas (hash), não são as reais
